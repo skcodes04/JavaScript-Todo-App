@@ -17,7 +17,7 @@ A modern Todo App built with HTML, CSS, and JavaScript. This project allows user
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- localStorage API
+- localStorage
 
 ## 📂 Project Structure
 

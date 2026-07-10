@@ -145,15 +145,27 @@ h1{
     background:#64748B; 
 }
 
-@media (max-width:480px){
+@media (max-width: 380px) {
+    .container {
+        padding: 20px;
+    }
+
     .input-box {
         gap: 8px;
+        flex-wrap: wrap;
     }
-    .input-box input{
-    padding:12px 14px; 
+
+    .input-box input {
+        padding: 12px 14px;
         font-size: 14px;
     }
 
+    .input-box button {
+        padding: 12px 14px;
+        font-size: 14px;
+        width: 100%;
+    }
+}
     .input-box button{
     padding:12px 14px; 
         font-size: 14px;

@@ -144,3 +144,19 @@ h1{
 ::-webkit-scrollbar-thumb:hover{
     background:#64748B; 
 }
+
+@media (max-width:480px){
+    .input-box {
+        gap: 8px;
+    }
+    .input-box input{
+    padding:12px 14px; 
+        font-size: 14px;
+    }
+
+    .input-box button{
+    padding:12px 14px; 
+        font-size: 14px;
+    }
+
+}

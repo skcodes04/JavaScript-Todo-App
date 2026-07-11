@@ -2,6 +2,14 @@
 
 A modern Todo App built with HTML, CSS, and JavaScript. This project allows users to add, delete, and save tasks using the browser's localStorage.
 
+## 🚀 Live Demo
+
+[https://skcodes04.github.io/JavaScript-Todo-App/]
+
+## 📖 Full Tutorial
+
+[https://sk340.blogspot.com/]
+
 ## ✨ Features
 
 - Add new tasks
